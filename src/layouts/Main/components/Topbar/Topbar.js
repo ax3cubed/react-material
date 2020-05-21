@@ -18,10 +18,8 @@ const useStyles = makeStyles(theme => ({
   },
   signOutButton: {
     marginLeft: theme.spacing(1)
-  }
-  logoButton : {
-   
-  }
+  },
+  
 }));
 
 const Topbar = props => {
