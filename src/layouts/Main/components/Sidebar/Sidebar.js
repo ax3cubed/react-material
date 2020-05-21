@@ -48,11 +48,7 @@ const Sidebar = props => {
       href: '/sign-in',
       icon: <LockOpenIcon />
     },
-    {
-      title: 'Typography',
-      href: '/typography',
-      icon: <TextFieldsIcon />
-    },
+    
     
   ];
 
